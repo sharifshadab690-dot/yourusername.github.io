@@ -12,7 +12,8 @@
 
   <!-- Header -->
   <header>
-    <img src="profile.jpg" alt="<img id="kitten" src="http://theheightsanimalhospital.com/clients/15389/images/playful-kitten-6683.jpg" alt="kitten">" class="profile-photo">
+    <img src="<img id="kitten" src="http://theheightsanimalhospital.com/clients/15389/images/playful-kitten-6683.jpg" alt="kitten">
+" alt="<img id="kitten" src="http://theheightsanimalhospital.com/clients/15389/images/playful-kitten-6683.jpg" alt="kitten">" class="profile-photo">
     <h1>shadab sharif</h1>
     <p>Web Developer | Designer | Your Tagline</p>
   </header>
