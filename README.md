@@ -39,11 +39,11 @@
   </section>
 
   <!-- Projects -->
-  <section id="projects">
+  <section id="developapp">
     <h2>Projects</h2>
     <div class="projects-grid">
       <div class="project-card">
-        <img src="project1.jpg" alt="Project 1">
+        <img src=".jpg" alt="Project 1">
         <h3>Project Title 1</h3>
         <p>Short description of the project.</p>
       </div>
