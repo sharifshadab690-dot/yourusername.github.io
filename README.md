@@ -56,8 +56,8 @@
 
   <!-- Contact -->
   <section id="contact">
-    <h2>Contact</h2>
-    <p>Email: <a href="mailto:your@email.com">your@email.com</a></p>
+    <h2>+971564966716</h2>
+    <p>Email: <a href="shadabsubhan98@gmail.">your@email.com</a></p>
     <p>LinkedIn: <a href="#">linkedin.com/in/yourprofile</a></p>
     <p>GitHub: <a href="#">github.com/yourusername</a></p>
   </section>
