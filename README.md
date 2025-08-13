@@ -58,8 +58,8 @@
   <section id="contact">
     <h2>+971564966716</h2>
     <p>Email: <a href="shadabsubhan98@gmail.">shadabsubhan98@gmail.com</a></p>
-    <p>LinkedIn: <a href="#">linkedin.com/in/yourprofile</a></p>
-    <p>GitHub: <a href="#">github.com/yourusername</a></p>
+    <p>LinkedIn: <a href="#">linkedin.com/in/sharifshadab</a></p>
+    <p>GitHub: <a href="#">github.com/wellchecked007q</a></p>
   </section>
 
   <footer>
