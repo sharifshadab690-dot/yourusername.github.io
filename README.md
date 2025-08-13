@@ -13,13 +13,13 @@
   <!-- Header -->
   <header>
     <img src="profile.jpg" alt="Profile Photo" class="profile-photo">
-    <h1>Your Name</h1>
+    <h1>shadab sharif</h1>
     <p>Web Developer | Designer | Your Tagline</p>
   </header>
 
   <!-- About -->
   <section id="about">
-    <h2>About Me</h2>
+    <h2>free lancerforediting</h2>
     <p>
       I’m a passionate developer with a knack for creating clean, modern websites.
       I love turning ideas into reality through code.
@@ -28,7 +28,7 @@
 
   <!-- Skills -->
   <section id="skills">
-    <h2>Skills</h2>
+    <h2>photography</h2>
     <div class="skills-grid">
       <div class="skill-card">HTML</div>
       <div class="skill-card">CSS</div>
